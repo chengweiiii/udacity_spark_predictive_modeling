@@ -23,7 +23,7 @@ Imagine we are working on a data science team for a popular digital music servic
 
 ## Results & Findings <a name="results"></a>
 
-The main findings of the project can be found at the blog post available [here](https://chengweii-c.medium.com/an-end-to-end-spark-project-example-predict-user-churn-833740cc61f7).
+The main findings of the project can be found at the blog post available [here](https://chengweii-c.medium.com/an-end-to-end-spark-project-example-predict-user-churn-833740cc61f7). You can also read the notebook [here](https://github.com/chengweiiii/udacity_spark_predictive_modeling/blob/main/main_2.ipynb)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
