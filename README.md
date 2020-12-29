@@ -22,9 +22,9 @@ Imagine we are working on a data science team for a popular digital music servic
 * Expected Result: build a "churn classifier" which can produce the probabilty of churn for each user.
 
 ## Results & Findings <a name="results"></a>
-
-The main findings of the project can be found at the blog post available [here](https://chengweii-c.medium.com/an-end-to-end-spark-project-example-predict-user-churn-833740cc61f7). You can also read the notebook [here](https://github.com/chengweiiii/udacity_spark_predictive_modeling/blob/main/main_2.ipynb)
+The notebook can be find in [main_2.ipynb](https://github.com/chengweiiii/udacity_spark_predictive_modeling/blob/main/main_2.ipynb), and the detail findings of the project can be found at the blog post available [here](https://chengweii-c.medium.com/an-end-to-end-spark-project-example-predict-user-churn-833740cc61f7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The credit is given to Udacity Data Science Nano-degree as they provide the interesting problem and those large and realistic datasets. You can find the information at the link available [here](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+
