@@ -1,3 +1,6 @@
+![music](https://miro.medium.com/max/1400/1*yQVY21FAMvajxQEYXCKCeg.jpeg)
+(Photo by Ellicia on Unsplash)
+
 ## Table of Contents
 
 1. [Configuration & Installation](#installation)
